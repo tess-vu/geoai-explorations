@@ -1,0 +1,58 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Pikachu",
+      "points": [
+        [
+          822,
+          78
+        ],
+        [
+          1279.66,
+          78
+        ],
+        [
+          1279.66,
+          720.2
+        ],
+        [
+          822,
+          720.2
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "Pikachu",
+      "points": [
+        [
+          0,
+          100
+        ],
+        [
+          602.85,
+          100
+        ],
+        [
+          602.85,
+          719.77
+        ],
+        [
+          0,
+          719.77
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "pikachu_00269_jpg.rf.7a24c96cc60de97441f83bc55ff6efeb.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

@@ -1,0 +1,11 @@
+{
+  "total_images": 400,
+  "total_annotations": 403,
+  "images_with_annotations": 400,
+  "images_without_annotations": 0,
+  "categories": [
+    "Pikachu",
+    "not_pikachu"
+  ],
+  "files_created": 400
+}

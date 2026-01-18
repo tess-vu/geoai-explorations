@@ -1,0 +1,34 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Pikachu",
+      "points": [
+        [
+          26,
+          53
+        ],
+        [
+          399.6,
+          53
+        ],
+        [
+          399.6,
+          538.8199999999999
+        ],
+        [
+          26,
+          538.8199999999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "pikachu_00379_jpg.rf.d5e93d0440b0dcd7b211db2c00a228b2.jpg",
+  "imageData": null,
+  "imageHeight": 588,
+  "imageWidth": 442
+}

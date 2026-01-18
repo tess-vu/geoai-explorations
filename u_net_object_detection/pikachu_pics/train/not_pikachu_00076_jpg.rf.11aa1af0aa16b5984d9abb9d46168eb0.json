@@ -1,0 +1,58 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "not_pikachu",
+      "points": [
+        [
+          0,
+          45
+        ],
+        [
+          269.97,
+          45
+        ],
+        [
+          269.97,
+          258.93
+        ],
+        [
+          0,
+          258.93
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "not_pikachu",
+      "points": [
+        [
+          262,
+          72
+        ],
+        [
+          436.35,
+          72
+        ],
+        [
+          436.35,
+          268.87
+        ],
+        [
+          262,
+          268.87
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "not_pikachu_00076_jpg.rf.11aa1af0aa16b5984d9abb9d46168eb0.jpg",
+  "imageData": null,
+  "imageHeight": 375,
+  "imageWidth": 500
+}

@@ -1,0 +1,34 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "not_pikachu",
+      "points": [
+        [
+          22,
+          19
+        ],
+        [
+          484.99,
+          19
+        ],
+        [
+          484.99,
+          420.79
+        ],
+        [
+          22,
+          420.79
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "not_pikachu_00193_jpg.rf.db27ad1970dbdc338d1c389d6831593a.jpg",
+  "imageData": null,
+  "imageHeight": 421,
+  "imageWidth": 499
+}
